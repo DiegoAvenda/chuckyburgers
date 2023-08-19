@@ -6,6 +6,9 @@
 	<div class="flex-1">
 		<a href="/" class="btn btn-ghost normal-case text-xl">CHUCKY BURGERS</a>
 	</div>
+	<div class="flex-1">
+		<a href="/menu" class="btn btn-ghost normal-case text-xl">MENU</a>
+	</div>
 	<div class="flex-none">
 		<div class="dropdown dropdown-end">
 			<!-- svelte-ignore a11y-no-noninteractive-tabindex -->
