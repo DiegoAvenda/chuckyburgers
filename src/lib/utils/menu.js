@@ -12,57 +12,57 @@ import tocinoBbq from '$lib/images/menu/tocino-bbq.png';
 export const menu = [
 	{
 		nombre: 'ARRACHERA',
-		imagen: arrachera,
+		image: arrachera,
 		precio: 115,
 		ingredientes: 'Doble carne de arrachera, queso, chorizo, tocino y salchicha para azar'
 	},
 	{
 		nombre: 'CHAMPIÑONES BBQ',
-		imagen: champi,
+		image: champi,
 		precio: 60,
 		ingredientes: 'Carne de res, queso, champiñones, cebolla caramelizada y BBQ'
 	},
 	{
 		nombre: 'DEDOS DE QUESO',
-		imagen: dedos,
+		image: dedos,
 		precio: 30,
 		ingredientes: '50% dedos, 50% queso'
 	},
 	{
 		nombre: 'PAPAS GAJO',
-		imagen: gajo,
+		image: gajo,
 		precio: 40
 	},
 	{
 		nombre: 'HAWAIANA',
-		imagen: hawai,
+		image: hawai,
 		precio: 60,
 		ingredientes: 'Carne de res, queso, tocino y BBQ'
 	},
 	{
 		nombre: 'SALCHICHA DE RES',
-		imagen: hotRes,
+		image: hotRes,
 		precio: 33
 	},
 	{
 		nombre: 'PAPAS FRANCESA',
-		imagen: french,
+		image: french,
 		precio: 40
 	},
 	{
 		nombre: 'CHUCKY BURGER',
-		imagen: original,
+		image: original,
 		precio: 70,
 		ingredientes: 'Carne de res, chorizo, tocino, salchicha para azar'
 	},
 	{
 		nombre: 'PALOMITAS DE POLLO',
-		imagen: paloma,
+		image: paloma,
 		precio: 30
 	},
 	{
 		nombre: 'TOCINO BBQ',
-		imagen: tocinoBbq,
+		image: tocinoBbq,
 		precio: 60,
 		ingredientes: 'Carne de res, queso, tocino y BBQ'
 	}
